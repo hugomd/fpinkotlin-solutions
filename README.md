@@ -3,7 +3,7 @@ This repository holds solutions for the exercises in [Functional Programming in 
 ## Exercises
 | Chapter  | Exercise Solution                                         | Tests                                                                |
 |----------|-----------------------------------------------------------|----------------------------------------------------------------------|
-| 2        | [`Chapter2.kt`](./src/main/kotlin/exercises/Chapter2.kt)  | [`Chapter2Tests.kt`](./src/test/kotlin/exercises/Chapter2Tests.kt`)  |
+| 2        | [`Chapter2.kt`](./src/main/kotlin/exercises/Chapter2.kt)  | [`Chapter2Tests.kt`](./src/test/kotlin/exercises/Chapter2Tests.kt)  |
 
 ## Contributing
 1. Fork this repository
